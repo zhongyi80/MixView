@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zhongyi80/MixView/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/zhongyi80/MixView/static/js/main.4daa1358.chunk.js",
+    "main.js.map": "/zhongyi80/MixView/static/js/main.4daa1358.chunk.js.map",
+    "runtime-main.js": "/zhongyi80/MixView/static/js/runtime-main.3b277d6e.js",
+    "runtime-main.js.map": "/zhongyi80/MixView/static/js/runtime-main.3b277d6e.js.map",
+    "static/js/2.f8233f0c.chunk.js": "/zhongyi80/MixView/static/js/2.f8233f0c.chunk.js",
+    "static/js/2.f8233f0c.chunk.js.map": "/zhongyi80/MixView/static/js/2.f8233f0c.chunk.js.map",
+    "static/js/3.20753fa0.chunk.js": "/zhongyi80/MixView/static/js/3.20753fa0.chunk.js",
+    "static/js/3.20753fa0.chunk.js.map": "/zhongyi80/MixView/static/js/3.20753fa0.chunk.js.map",
+    "index.html": "/zhongyi80/MixView/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/zhongyi80/MixView/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f8233f0c.chunk.js.LICENSE.txt": "/zhongyi80/MixView/static/js/2.f8233f0c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/zhongyi80/MixView/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b277d6e.js",
+    "static/js/2.f8233f0c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4daa1358.chunk.js"
+  ]
+}
